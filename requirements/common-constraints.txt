@@ -119,7 +119,7 @@ fsspec==2025.12.0
     #   torch
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.45
+gitpython==3.1.60
     # via
     #   -r requirements/requirements.in
     #   streamlit
@@ -390,7 +390,7 @@ ptyprocess==0.7.0
     # via pexpect
 pyarrow==22.0.0
     # via streamlit
-pyasn1==0.6.1
+pyasn1==0.6.3
     # via
     #   pyasn1-modules
     #   rsa
