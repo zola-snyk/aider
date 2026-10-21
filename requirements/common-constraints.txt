@@ -43,7 +43,7 @@ cachetools==6.2.4
     # via
     #   google-auth
     #   streamlit
-certifi==2025.11.12
+certifi==2026.10.19
     # via
     #   httpcore
     #   httpx
