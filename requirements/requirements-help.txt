@@ -33,7 +33,7 @@ banks==2.2.0
     # via
     #   -c requirements/common-constraints.txt
     #   llama-index-core
-certifi==2025.11.12
+certifi==2026.10.19
     # via
     #   -c requirements/common-constraints.txt
     #   httpcore
