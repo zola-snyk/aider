@@ -390,7 +390,7 @@ ptyprocess==0.7.0
     # via pexpect
 pyarrow==22.0.0
     # via streamlit
-pyasn1==0.6.1
+pyasn1==0.6.5
     # via
     #   pyasn1-modules
     #   rsa
